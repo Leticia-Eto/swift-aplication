@@ -24,7 +24,7 @@ To run this project, you will need:
 ## 📥 How to Download and Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/stellaoliveirabertt/cotemig-swift/tree/main
+   https://github.com/Leticia-Eto/swift-aplication.git
 2. Open the project in Xcode.
 3. Select a simulator or a real device.
 4. Click the Run ▶️ button to launch the app.
